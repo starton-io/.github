@@ -30,6 +30,13 @@ Looking for inspiration? Check out our project examples:
 - Creating Metatransactions with Web3Auth and Starton: <a href="https://github.com/starton-io/starton-web3auth-tuto">Discover</a>
 - Check out <a href="https://docs.starton.com/docs/tools/integrating-tools">our tutorials</a>.
 
+## Contributing
+Contributions are always welcome!
+
+See ![CONTRIBUTING.md](CONTRIBUTING.md) for ways to get started.
+
+Please adhere to Starton's ![Starton Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## Links
 - <a href="https://www.starton.com/">Our Website</a>
 - <a href="https://www.starton.com/legal-notice">Our Legal Notice</a>
