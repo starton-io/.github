@@ -1,3 +1,5 @@
+![Starton Header](github-banner.jpg)
+
 # Code of Conduct - Starton
 
 ## Our Pledge

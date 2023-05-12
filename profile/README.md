@@ -33,9 +33,9 @@ Looking for inspiration? Check out our project examples:
 ## Contributing
 Contributions are always welcome!
 
-See ![CONTRIBUTING.md](profile/CONTRIBUTING.md) for ways to get started.
+See [CONTRIBUTING.md](https://github.com/starton-io/.github/blob/master/profile/CONTRIBUTING.md) for ways to get started.
 
-Please adhere to Starton's ![Starton Code of Conduct](profile/CODE_OF_CONDUCT.md).
+Please adhere to Starton's [Code of Conduct](https://github.com/starton-io/.github/blob/master/profile/CODE_OF_CONDUCT.md).
 
 ## Links
 - <a href="https://www.starton.com/">Our Website</a>

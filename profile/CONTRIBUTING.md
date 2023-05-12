@@ -1,3 +1,5 @@
+![Starton Header](github-banner.jpg)
+
 <!-- omit in toc -->
 # Contributing to Starton
 
@@ -26,7 +28,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the ![Starton Code of Conduct](profile/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior
+This project and everyone participating in it is governed by the [Starton Code of Conduct](https://github.com/starton-io/.github/blob/master/profile/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior
 to [support@starton.com](mailto:support@starton.com).
 
 ## I Have a Question
