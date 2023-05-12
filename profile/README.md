@@ -1,4 +1,4 @@
-![Starton Header](github-banner.jpg)
+![Starton Banner](https://github.com/starton-io/.github/blob/master/github-banner.jpg?raw=true)
 
 Starton is the most powerful developer suite to build and scale WEB3 applications, simply and fast. Deploy smart contracts or monitor blockchain interactions with one API call.
 

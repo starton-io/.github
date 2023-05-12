@@ -1,4 +1,4 @@
-![Starton Header](github-banner.jpg)
+![Starton Banner](https://github.com/starton-io/.github/blob/master/github-banner.jpg?raw=true)
 
 <!-- omit in toc -->
 # Contributing to Starton
